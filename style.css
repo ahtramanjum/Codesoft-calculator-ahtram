@@ -1,0 +1,309 @@
+*body{
+  margin: 0;
+  padding: 0;
+}
+.main-container{
+  margin: auto;
+  justify-content: space-around;
+  align-items: center;
+  display: block;
+  width: 340px;
+}
+.d{
+  text-align: center;
+  color: tomato;
+  font-family: sans-serif;
+  font-size: 20px;
+
+}
+.hr{
+  color: black;
+  background-color: black;
+  width: 300px;
+  margin-bottom: 25px;
+  border: 1px solid gray;
+}
+
+  /* align-items: center; */
+  /* text-align: center; */
+  /* height: 120px; */
+  /* margin-bottom: 10px; */
+  /* border-radius: 5px; */
+ 
+.answer{
+  height: 115px;
+  width: 330px;
+  border: 3px solid rgb(46, 38, 38);
+  border-radius: 15px 15px 0px 0px;
+  /* background-color: red; */
+  font-size: 25px;
+  /* padding-left: 15px; */
+}
+.m-container{
+  background-color: black;
+  background-color: white;
+  align-items: center;
+  text-align: center;
+  padding: 20px 0px;
+  border-radius: 0px 0px 15px 15px;
+  border: 1px solid black;
+
+}
+
+.c{
+  /* border: 2px solid red; */
+  font-size: 30px;
+  height: 50px;
+  width: 50px;
+  background-color:  #3A4655;
+  color: red;
+  padding: 10px;
+  margin: 10px;
+}
+
+.up-sign{
+  /* border: 2px solid red; */
+  font-size: 30px;
+  height: 50px;
+  width: 50px;
+  background-color:  #3A4655;
+  color: forestgreen;
+  margin: 10px;
+  padding: 10px;
+  box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
+  color: white;
+  /* box-shadow: rgba(255, 255, 255, 0.38) 0px 8px 24px; */
+  /* border-radius: 1px solid white; */
+  /* border: none; */
+
+}
+.c789{
+  color: white;
+  /* border: 2px solid red; */
+  font-size: 30px;
+  height: 50px;
+  width: 50px;
+  background-color:  #3A4655;
+  padding: 10px;
+  margin: 10px;
+}
+.c456{
+  color: white;
+  /* border: 2px solid red; */
+  font-size: 30px;
+  height: 50px;
+  width: 50px;
+  background-color:  #3A4655;
+  padding: 10px;
+  margin: 10px;
+}
+
+.c123{
+  color: white;
+  /* border: 2px solid red; */
+  font-size: 30px;
+  height: 50px;
+  width: 50px;
+  background-color:  #3A4655;
+  padding: 10px;
+  margin: 10px;
+}
+.c000{
+  color: white;
+  /* border: 2px solid red; */
+  font-size: 30px;
+  height: 50px;
+  width: 50px;
+  background-color:  #3A4655;
+  padding: 10px;
+  margin: 10px;
+}
+.div{
+  /* border: 2px solid red; */
+  font-size: 30px;
+  height: 50px;
+  width: 50px;
+  background-color:  #3A4655;
+  color: green;
+  padding: 10px;
+  margin: 10px;
+}
+.mul{
+  /* border: 2px solid red; */
+  font-size: 30px;
+  height: 50px;
+  width: 50px;
+  background-color:  #3A4655;
+  color: green;
+  padding: 10px;
+  margin: 10px;
+}
+.minus{
+  /* border: 2px solid red; */
+  font-size: 30px;
+  height: 50px;
+  width: 50px;
+  background-color:  #3A4655;
+  color: green;
+  padding: 10px;
+  margin: 10px;
+}
+.plus{
+  /* border: 2px solid red; */
+  font-size: 30px;
+  height: 50px;
+  width: 50px;
+  background-color:  #3A4655;
+  color: green;
+  padding: 10px;
+  margin: 10px;
+}
+
+.equal{
+  /* border: 2px solid red; */
+  font-size: 30px;
+  height: 50px;
+  width: 50px;
+  background-color: green;
+  color: white;
+  padding: 10px;
+  margin: 10px;
+}
+
+/* // madia query */
+
+
+@media only screen and (max-width: 458px){
+
+  .main-container{
+  width: 300px;
+  align-items: center;
+  text-align: center;
+  }
+  .answer{
+    width: 290px;
+    height: 90px;
+  }
+  .c789{
+    /* border: 2px solid red; */
+    font-size: 20px;
+    height: 40px;
+    width: 40px;
+    background-color:  #3A4655;
+    padding: 10px;
+    margin: 10px;
+    border-color: black;
+  }
+
+  .c456{
+    /* border: 2px solid red; */
+    font-size: 20px;
+    height: 40px;
+    width: 40px;
+    background-color:  #3A4655;
+    padding: 10px;
+    margin: 10px;
+    border-color: black;
+  }
+  .c123{
+    /* border: 2px solid red; */
+    font-size: 20px;
+    height: 40px;
+    width: 40px;
+    background-color:  #3A4655;
+    padding: 10px;
+    margin: 10px;
+    border-color: black;
+  }
+  .c000{
+    /* border: 2px solid red; */
+    font-size: 20px;
+    height: 40px;
+    width: 40px;
+    background-color:  #3A4655;
+    padding: 10px;
+    margin: 10px;
+    border-color: black;
+  }
+  
+  .c{
+    /* border: 2px solid red; */
+    font-size: 20px;
+    height: 40px;
+    width: 40px;
+    background-color:  #3A4655;
+    padding: 10px;
+    margin: 10px;
+    border-color: black;
+  }
+  .up-sign{
+    /* border: 2px solid red; */
+    font-size: 20px;
+    height: 40px;
+    width: 40px;
+    background-color:  #3A4655;
+    padding: 10px;
+    margin: 10px;
+    border-color: black;
+  }
+  .div{
+    /* border: 2px solid red; */
+    font-size: 20px;
+    height: 40px;
+    width: 40px;
+    background-color:  #3A4655;
+    padding: 10px;
+    margin: 10px;
+    border-color: black;
+  }
+  .mul{
+    /* border: 2px solid red; */
+    font-size: 20px;
+    height: 40px;
+    width: 40px;
+    background-color:  #3A4655;
+    padding: 10px;
+    margin: 10px;
+    border-color: black;
+  }
+  .minus{
+    /* border: 2px solid red; */
+    font-size: 20px;
+    height: 40px;
+    width: 40px;
+    background-color:  #3A4655;
+    padding: 10px;
+    margin: 10px;
+    border-color: black;
+  }
+  .plus{
+    /* border: 2px solid red; */
+    font-size: 20px;
+    height: 40px;
+    width: 40px;
+    background-color:  #3A4655;
+    padding: 10px;
+    margin: 10px;
+    border-color: black;
+  }
+
+  .equal{
+    /* border: 2px solid red; */
+    font-size: 20px;
+    height: 40px;
+    width: 40px;
+    background-color:  green;
+    padding: 10px;
+    margin: 10px;
+    color:white;
+    border-color: black;
+  }
+
+  .hr{
+    width: 200px;
+    margin-bottom: 15px;
+  }
+  .d{
+    font-size: 13px;
+  }
+}
